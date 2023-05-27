@@ -24,7 +24,7 @@ conversations.value.push({
     },
   ],
   lastMessage: "Hello, Hassan!",
-  img: "/src/assets/img/ali.jpg"
+  img: "https://hasndev.com/assets/images/team/emp-1.jpg"
 }),
   conversations.value.push({
     title: "Chat With Luma",
@@ -41,7 +41,7 @@ conversations.value.push({
       },
     ],
     lastMessage: "Yes I'll do that",
-    img: "/src/assets/img/luma.jpg"
+    img: "https://hasndev.com/assets/images/team/emp-2.jpg"
   }),
   conversations.value.push({
     title: "Chat With Karrar",
@@ -58,6 +58,6 @@ conversations.value.push({
       },
     ],
     lastMessage: "I'm fine ,thanks.",
-    img: "/src/assets/img/karrar.jpg"
+    img: "https://hasndev.com/assets/images/team/emp-3.jpg"
   })
 </script>
